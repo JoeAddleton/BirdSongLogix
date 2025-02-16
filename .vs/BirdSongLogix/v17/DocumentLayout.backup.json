@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\[5] BirdSongLogix Release\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6846769F-BA00-480F-A07A-7E0B3E401FAB}|AutomaticBirdID\\BirdSongLogix.csproj|D:\\[5] BirdSongLogix Release\\automaticbirdid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6846769F-BA00-480F-A07A-7E0B3E401FAB}|AutomaticBirdID\\BirdSongLogix.csproj|solutionrelative:automaticbirdid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6846769F-BA00-480F-A07A-7E0B3E401FAB}|AutomaticBirdID\\BirdSongLogix.csproj|D:\\[5] BirdSongLogix Release\\automaticbirdid\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6846769F-BA00-480F-A07A-7E0B3E401FAB}|AutomaticBirdID\\BirdSongLogix.csproj|solutionrelative:automaticbirdid\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6846769F-BA00-480F-A07A-7E0B3E401FAB}|AutomaticBirdID\\BirdSongLogix.csproj|d:\\[5] birdsonglogix release\\automaticbirdid\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6846769F-BA00-480F-A07A-7E0B3E401FAB}|AutomaticBirdID\\BirdSongLogix.csproj|solutionrelative:automaticbirdid\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\[5] BirdSongLogix Release\\AutomaticBirdID\\Program.cs",
+              "RelativeDocumentMoniker": "AutomaticBirdID\\Program.cs",
+              "ToolTip": "D:\\[5] BirdSongLogix Release\\AutomaticBirdID\\Program.cs",
+              "RelativeToolTip": "AutomaticBirdID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:22:47.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "D:\\[5] BirdSongLogix Release\\AutomaticBirdID\\MainPage.cs",
+              "RelativeDocumentMoniker": "AutomaticBirdID\\MainPage.cs",
+              "ToolTip": "D:\\[5] BirdSongLogix Release\\AutomaticBirdID\\MainPage.cs",
+              "RelativeToolTip": "AutomaticBirdID\\MainPage.cs",
+              "ViewState": "AgIAANYAAAAAAAAAAAAAAOsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:49:25.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0e8c8175-f669-453e-8374-dc35ec44794c",
+        "Display": 2,
+        "X": 1,
+        "Y": 1,
+        "Width": 1438,
+        "Height": 898,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "D:\\[5] BirdSongLogix Release\\AutomaticBirdID\\MainPage.cs",
+              "RelativeDocumentMoniker": "AutomaticBirdID\\MainPage.cs",
+              "ToolTip": "D:\\[5] BirdSongLogix Release\\AutomaticBirdID\\MainPage.cs [Design]",
+              "RelativeToolTip": "AutomaticBirdID\\MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:33:19.261Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
